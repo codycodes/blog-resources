@@ -1,5 +1,5 @@
 # blog-resources
-Resources from blog
+Resources from blog https://dev.to/codycodes
 
 ## Terraform
 
